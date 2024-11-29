@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "marca": "Olmo",
+        "modelo": "Regal",
+        "rodado": 29,
+        "anio": 2022,
+        "color": "roja",
+        "peso": 16,
+        "tipo": "Montañera",
+        "precio": 120000,
+        "vendida": false
+    },
+    {
+        "id": 2,
+        "marca": "Fixie",
+        "modelo": "Sunshine",
+        "rodado": 26,
+        "anio": 2020,
+        "color": "amarilla",
+        "peso": 13,
+        "tipo": "Retro",
+        "precio": 95000,
+        "vendida": true
+    },
+    {
+        "id": 3,
+        "marca": "TopMega",
+        "modelo": "Techno",
+        "rodado": 28,
+        "anio": 2021,
+        "color": "negra",
+        "peso": 15,
+        "tipo": "Triatlón",
+        "precio": 140000,
+        "vendida": false
+    },
+    {
+        "id": 4,
+        "marca": "Shifter",
+        "modelo": "Ruta",
+        "rodado": 26,
+        "anio": 2019,
+        "color": "gris",
+        "peso": 14,
+        "tipo": "Paseo",
+        "precio": 85000,
+        "vendida": true
+    },
+    {
+        "id": 5,
+        "marca": "Fierce",
+        "modelo": "FM18SI29AM211",
+        "rodado": 29,
+        "anio": 2023,
+        "color": "verde",
+        "peso": 17,
+        "tipo": "Montañera",
+        "precio": 160000,
+        "vendida": false
+    }
+]
